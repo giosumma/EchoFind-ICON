@@ -9,7 +9,7 @@ Università degli Studi di Bari Aldo Moro
 - Giorgia Summa - 775197
 
 ## Clonare il progetto
-<code>git clone ...</code>
+<code>git clone https://github.com/giosumma/EchoFind-ICON.git</code>
 
 ## Creare l'ambiente virtuale se necessario
 <code>cd EchoFind-ICON</code>
